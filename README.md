@@ -8,6 +8,7 @@
 [Live Scoreboards](http://livescoreboards.co.uk) | 测试,付费,即时比分  | JSON
 [GoalAPI](http://goalapi.com/) | 付费，即时比分 | JSON
 [Football Data](http://api.football-data.org/index)| 测试,付费,即时比分 | JSON
+| [Opta](http://http://www.optasports.com) | 付费，即时比分,即时状态,多种数据 | 未知 
 
 ## 足球资讯
 | 网站	| RSS	| 语言
