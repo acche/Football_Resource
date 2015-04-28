@@ -15,4 +15,4 @@
 | ----	| ---	|----
 [Goal](http://goal.com)|[RSS](http://www.goal.com/en-us/feeds/news?fmt=rss) | 英文/中文
 [虎扑](http://soccer.hupu.com/) | [虎扑心声-足球](http://voice.hupu.com/generated/voice/news_soccer.xml) | 中文
-
+[FootBallDataBase](http://footballdatabase) | 无 | 中文
